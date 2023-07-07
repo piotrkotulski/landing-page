@@ -145,6 +145,10 @@ section i::before {
   background-color: #f7f7f7;
   padding-top: 70px;
 }
+.portfolio .row .col {
+  display: flex;
+  justify-content: center;
+}
 .portfolio img {
   min-height: 250px;
   object-fit: cover;
