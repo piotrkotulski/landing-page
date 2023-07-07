@@ -47,6 +47,7 @@ body {
 .nav-items {
   list-style-type: none;
   z-index: 3;
+  display: flex;
 }
 .nav-items .nav-item {
   display: inline-block;

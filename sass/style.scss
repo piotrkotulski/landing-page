@@ -55,6 +55,7 @@ body {
 .nav-items {
   list-style-type: none;
   z-index: 3;
+  display: flex;
 
   .nav-item {
     display: inline-block;
@@ -223,6 +224,8 @@ footer{
 #menu__toggle{
   display: none;
 }
+
+//MOBILE
 
 @media (max-width: 966px) {
 .header-box{
